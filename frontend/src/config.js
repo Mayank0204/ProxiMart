@@ -1,1 +1,3 @@
-export const API_BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://proximart-backend.onrender.com";
+
+export default BASE_URL;
